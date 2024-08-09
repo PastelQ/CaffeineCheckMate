@@ -1,4 +1,6 @@
-<img alt="mainLogo" src="https://github.com/user-attachments/assets/4791ae8f-4643-4b0e-97ab-73875ea97061">
+<p align="center">
+  <img alt="mainLogo" src="https://github.com/user-attachments/assets/4791ae8f-4643-4b0e-97ab-73875ea97061">
+</p>
 
 # JSP / Servlet 프로젝트
 **CaffeineCheckMate** : 데일리 카페인 계산기 & 음료 관련 커뮤니티
